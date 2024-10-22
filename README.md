@@ -7,7 +7,9 @@
 ## Technology stack
 
 **Back-end**
-
+<!-- ## Go -->
+![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
+<!-- ## Python -->
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
@@ -33,7 +35,6 @@
 
 **Learning**
 
-![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
