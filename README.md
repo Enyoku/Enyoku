@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Telegram
-[My](https://t.me/h4pY0)</br>
+[Me](https://t.me/h4pY0)</br>
 </br>
 
 ## Technology stack
