@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Telegram
 [Me](https://t.me/h4pY0)</br>
 </br>
